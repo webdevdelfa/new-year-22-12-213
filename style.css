@@ -96,6 +96,7 @@ a {
     padding: 15px;
     min-width: 165px;
     font-weight: 500;
+    border-radius: 50px;
 }
 
 .desc {
